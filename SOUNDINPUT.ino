@@ -20,5 +20,6 @@ void loop() {
    else{
     digitalWrite(ledpin,LOW);}
   //continues to display light aslong as there is sound input to the mic
+  //run the code by connecting a serial cable to your arduino kit.
 
 }
